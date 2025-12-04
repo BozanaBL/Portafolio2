@@ -1,71 +1,62 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
   background-color: #1a1d36;
   color: aliceblue;
-}
-
-header {
-  background-color: #333;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
-
-nav ul {
-  display: flex;
-  justify-content: center;
-  list-style-type: none;
+  margin: 0;
   padding: 0;
+  text-align: left; /* Todo alineado a la izquierda */
 }
 
-nav ul li {
-  margin: 0 10px;
-}
-
-@media (max-width: 600px) {
-  nav ul {
-    flex-direction: column;
-    align-items: center;
-  }
-}
+/* Imagen circular */
 .imagen {
   width: 150px;
   height: 150px;
   border-radius: 50%;
   border: 2px solid white;
   object-fit: cover;
-  margin: 20px auto;
+  display: block;
+  margin: 20px 0; /* Quité el auto centrado */
 }
 
-.img_but {
-  display: inline-flex;
-  margin-top: 50px;
-}
-
-.boton {
-  margin-left: 60px;
-  margin-top: 100px;
-  text-decoration: none;
-}
-
+/* Imágenes de proyectos */
 .foto_proyecto {
-  width: 400px;
-  height: 250px;
-}
-.content {
-  margin-left: 50px;
-}
-h2 {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  width: 350px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 5px;
+  transition: transform .3s ease;
 }
 
-#todo input {
-  width: 100%;
+.foto_proyecto:hover {
+  transform: scale(1.05);
 }
 
-#todo ul {
-  margin-top: 20px;
+/* Encabezados */
+h1, h2, h3 {
+  text-align: left; /* Aseguro que nada quede centrado */
+  margin-top: 30px;
+}
+
+section {
+  text-align: left; /* Cada sección alineada a la izquierda */
+}
+
+/* Ajustes del contenedor de proyectos */
+.d-flex {
+  justify-content: flex-start; /* Alinear elementos al inicio */
+  text-align: left;
+}
+
+.ms-4 {
+  margin-left: 20px !important; /* margen pequeño, no centrado */
+}
+
+/* Botón debajo de la foto */
+.btn-outline-success {
+  margin-left: 0; /* alineado a la izquierda */
+}
+
+/* Responsivo */
+@media (max-width: 600px) {
+  .foto_proyecto_
 }
