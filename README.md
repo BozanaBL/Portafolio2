@@ -40,6 +40,10 @@ En este portafolio encontrarás algunos de mis proyectos más relevantes, así c
 - **LinkedIn:** https://www.linkedin.com/in/bozana-ivanic/ 
 - **GitHub:** https://github.com/BozanaBL
 
+  
+## 🌐 Proyecto en Producción
+Puedes ver el sitio funcionando aquí:  
+👉 https://bozanabl.github.io/Portafolio2/
 ---
 
 ## 📄 Licencia
