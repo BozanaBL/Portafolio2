@@ -1,1 +1,48 @@
 # Portafolio2
+# 👋 ¡Hola! Soy Bozana
+
+Soy desarrolladora enfocada en  Font End y Full Stack. Me apasiona crear soluciones digitales funcionales, accesibles y con buen diseño.  
+En este portafolio encontrarás algunos de mis proyectos más relevantes, así como el proceso detrás de ellos.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### Proyecto 1 – Viajes Chile - https://github.com/BozanaBL/Viajes-Chile
+**Tecnologías:** HTML, CSS, JavaScript  
+**Descripción:** Viajes-Chile es una página web estática pensada para servir como plataforma de inspiración y presentación de destinos en Chile. Contiene una interfaz amigable que permite mostrar información, imágenes y estructuración de viajes en distintas regiones del país. Con esta primera versión del proyecto, busco demostrar mis habilidades en desarrollo frontend — maquetación, estructura HTML, estilos CSS y organización de contenidos   
+
+---
+
+### Proyecto 2 – Olivia Ros - https://github.com/BozanaBL/Olivia-Ros
+**Tecnologías:** HTML, CSS 
+**Descripción:**Olivia-Ros es un sitio web estático creado como una primera versión funcional para presentar contenido de forma sencilla y clara. La idea del proyecto es servir como base de una página personal o de portafolio web, demostrando dominio en estructura de archivos, maquetación y diseño responsivo. 
+
+---
+
+### Proyecto 3 – Fit Life - https://github.com/BozanaBL/FitLife
+**Herramientas:** HTML, CSS y JavaScript  
+**Descripción:** FitLife es una web de estilo “fitness / salud” , diseñada para servir como base de página de presentación o “landing page” con contenido relacionado al bienestar o al estilo de vida saludable. El objetivo es demostrar tu capacidad para estructurar un sitio desde cero, con una organización clara de archivos, un diseño limpio y responsive, y una base lista para ampliarse con funcionalidades adicionales.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** HTML, CSS, JavaScript, Bootstrap
+- **Hosting:** GitHub Pages 
+
+---
+
+
+## 📫 Contacto
+
+- **Email:** bozana.123@hotmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/bozana-ivanic/ 
+- **GitHub:** https://github.com/BozanaBL
+
+---
+
+## 📄 Licencia
+
+Este portafolio y los proyectos incluidos se encuentran bajo la **Licencia MIT**.  
+Puedes consultarla en el archivo `LICENSE` del repositorio.
