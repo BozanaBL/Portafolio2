@@ -4,10 +4,10 @@ body {
   color: aliceblue;
   margin: 0;
   padding: 0;
-  text-align: left; /* Todo alineado a la izquierda */
+  text-align: left; 
 }
 
-/* Imagen circular */
+
 .imagen {
   width: 150px;
   height: 150px;
@@ -15,10 +15,10 @@ body {
   border: 2px solid white;
   object-fit: cover;
   display: block;
-  margin: 20px 0; /* Quité el auto centrado */
+  margin: 20px 0; 
 }
 
-/* Imágenes de proyectos */
+
 .foto_proyecto {
   width: 350px;
   height: 220px;
@@ -31,32 +31,32 @@ body {
   transform: scale(1.05);
 }
 
-/* Encabezados */
+
 h1, h2, h3 {
-  text-align: left; /* Aseguro que nada quede centrado */
+  text-align: left; 
   margin-top: 30px;
 }
 
 section {
-  text-align: left; /* Cada sección alineada a la izquierda */
+  text-align: left; 
 }
 
-/* Ajustes del contenedor de proyectos */
+
 .d-flex {
-  justify-content: flex-start; /* Alinear elementos al inicio */
+  justify-content: flex-start; 
   text-align: left;
 }
 
 .ms-4 {
-  margin-left: 20px !important; /* margen pequeño, no centrado */
+  margin-left: 20px !important; 
 }
 
-/* Botón debajo de la foto */
+
 .btn-outline-success {
-  margin-left: 0; /* alineado a la izquierda */
+  margin-left: 0; 
 }
 
-/* Responsivo */
+
 @media (max-width: 600px) {
   .foto_proyecto_
 }
